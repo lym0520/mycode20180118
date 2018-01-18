@@ -1,6 +1,6 @@
 today is 20180118
 Git is a version control system.
-git is a free software.
+git is  free software.
 
 one  change
 
